@@ -1,0 +1,2 @@
+# examrepos
+foe ops practical
